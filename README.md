@@ -1,7 +1,7 @@
 ## Hi, I'm Byron 👋
 
 Aspiring Data Analyst & Data Scientist  
-Python • SQL • Machine Learning • EDA • Time Series  
+Python • SQL • Machine Learning • EDA • Time Series 
 
 I work on applied data projects that focus on transforming raw data into actionable insights
 and building predictive models to support data-driven decision-making.
