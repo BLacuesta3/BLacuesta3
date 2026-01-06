@@ -14,9 +14,14 @@ and building predictive models to support data-driven decision-making.
 - Computer vision projects using deep learning techniques
 
 ### Selected Projects
-- **Customer Churn Prediction** – Built and evaluated classification models using Python and SQL, focusing on F1 score and model interpretability
-- **Time-Series Forecasting** – Modeled trends and seasonality to forecast future values using statistical time-series methods
-- **Computer Vision** – Developed image classification models using convolutional neural networks
+- **Customer Churn Prediction** – Built and evaluated classification models using Python and SQL, focusing on F1 score and model interpretability.
+  https://github.com/BLacuesta3/Sprint-17-Project-Customer-Churn
+
+- **Time-Series Forecasting** – Modeled trends and seasonality to forecast future values using statistical time-series methods.
+  https://github.com/BLacuesta3/Sprint-13-Project-Time-Series-Analysis
+  
+- **Computer Vision** – Developed image classification models using convolutional neural networks.
+  https://github.com/BLacuesta3/Sprint-15-Project-Computer-Vision
 
 📍 Los Angeles, CA  
 🎓 TripleTen Data Science Graduate  
